@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Microsoft.Samples.Kinect.ColorBasics.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserResendTimeout" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:05:00</Value>
+    </Setting>
+    <Setting Name="UsersJSonPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">users.json</Value>
+    </Setting>
+    <Setting Name="GreetingCSVPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">greetings.csv</Value>
+    </Setting>
+    <Setting Name="DeleteSavedPhotos" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

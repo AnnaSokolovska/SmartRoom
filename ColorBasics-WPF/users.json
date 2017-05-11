@@ -1,0 +1,49 @@
+﻿{
+  "UsersList": [
+    {
+      "Name": "Anna",
+      "Program": "",
+      "ProgramPath": "",
+      "Audio": "wmplayer.exe",
+      "AudioPath": "D:\\music\\Ed.mp3",
+      "Video": "wmplayer.exe",
+      "VideoPath": ""
+    },
+    {
+      "Name": "Andrii",
+      "Program": "chrome.exe",
+      "ProgramPath": "https://web.telegram.org",
+      "Audio": "wmplayer.exe",
+      "AudioPath": "",
+      "Video": "wmplayer.exe",
+      "VideoPath": ""
+    },
+    {
+      "Name": "Artem",
+      "Program": "chrome.exe",
+      "ProgramPath": "http:\\www.YourUrl.com",
+      "Audio": "wmplayer.exe",
+      "AudioPath": "",
+      "Video": "wmplayer.exe",
+      "VideoPath": ""
+    },
+    {
+      "Name": "Vlad",
+      "Program": "chrome.exe",
+      "ProgramPath": "https://gabrielecirulli.github.io/2048/",
+      "Audio": "wmplayer.exe",
+      "AudioPath": "",
+      "Video": "wmplayer.exe",
+      "VideoPath": ""
+    },
+    {
+      "Name": "Kolya",
+      "Program": "chrome.exe",
+      "ProgramPath": "https://netbeans.org/",
+      "Audio": "wmplayer.exe",
+      "AudioPath": "",
+      "Video": "wmplayer.exe",
+      "VideoPath": "D:\\music\\Ed.mp3"
+    }
+  ]
+}
